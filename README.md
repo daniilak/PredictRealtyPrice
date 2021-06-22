@@ -64,7 +64,7 @@
 
 ## Демонстрация работы
 
-![Демонстрация работы](https://psv4.userapi.com/c536436/u385818590/docs/d14/a8884fc5c221/ezgif-5-e18f8a6c6d57.gif?extra=ZHfIz94P2FIdADSWcq5KpZuzGlKA3dhcEsnnwVfYptoWo5wDNvyDhS2_MQOMCJ1xG3qwdLVBpj9mEv3bMqB47yEZrWjcrE1bugVO1xO2q3NiZaSKT1iz0NlVtGjNp5BHPbJdiHImpAkhAGMkIsZBHGgyy)
+![Демонстрация работы](https://psv4.userapi.com/c536436/u385818590/docs/d14/a8884fc5c221/ezgif-5-e18f8a6c6d57.gif?extra=ZHfIz94P2FIdADSWcq5KpZuzGlKA3dhcEsnnwVfYptoWo5wDNvyDhS2_MQOMCJ1xG3qwdLVBpj9mEv3bMqB47yEZrWjcrE1bugVO1xO2q3NiZaSKT1iz0NlVtGjNp5BHPbJdiHImpAkhAGMkIsZBHGgyyg)
 
 ## Список использованных источников
 
